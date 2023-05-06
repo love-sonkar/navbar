@@ -40,7 +40,6 @@
   cursor: pointer;
   flex-direction: column;
   color: white;
-  user-select: none;
 }
 
 .navlist li span {
@@ -63,7 +62,6 @@
   color: white;
   opacity: 0;
   transition: all 0.3s ease-in-out;
-  user-select: none;
 }
 
 .navlist li:hover a {
